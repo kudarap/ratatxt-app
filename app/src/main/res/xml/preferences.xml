@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="pref_client_ver"
+        android:title="Client Version"
+        android:summary="---" />
+    <Preference
+        android:key="pref_api_host"
+        android:title="API Host"
+        android:summary="---" />
+    <Preference
+        android:key="pref_api_ver"
+        android:title="API Version"
+        android:summary="---" />
+    <Preference
+        android:key="pref_api_built"
+        android:title="API Build Date"
+        android:summary="---" />
+    <Preference
+        android:key="pref_device"
+        android:title="Device"
+        android:summary="---" />
+    <Preference
+        android:key="pref_device_topic"
+        android:title="Topic Subscription"
+        android:summary="---" />
+    <Preference
+        android:key="pref_clear_counters"
+        android:title="Clear Counters" />
+</PreferenceScreen>

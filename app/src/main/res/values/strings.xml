@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ratatxt</string>
+
+    <!-- Login Activity -->
+    <string name="hint_host">Host</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_text_login">Login</string>
+
+    <!-- Dashboard Activity -->
+    <string name="btn_text_device_selector">Please select a device</string>
+    <string name="label_device_selector">Select device for Ratatxt service</string>
+    <string name="switch_text_sms_receiver">Inbox service</string>
+    <string name="label_sms_receiver">Enable device to push received SMS to /inbox</string>
+    <string name="switch_text_sms_sender">Outbox service</string>
+    <string name="label_sms_sender">Enable device to send SMS from /outbox</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logs">Logs</string>
+    <string name="action_logout">Logout</string>
+</resources>

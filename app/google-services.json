@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "1012683785927",
+    "firebase_url": "https://ratatxt-sms.firebaseio.com",
+    "project_id": "ratatxt-sms",
+    "storage_bucket": "ratatxt-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012683785927:android:015c40121a580ee9",
+        "android_client_info": {
+          "package_name": "com.chiligarlic.ratatxt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012683785927-da3bihn3jlsoav4llecq7nj6i8ac4q89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiligarlic.ratatxt",
+            "certificate_hash": "b700d81c2b3ac9d629b48d3f896da97bc7c04312"
+          }
+        },
+        {
+          "client_id": "1012683785927-50eiv5ab37atj5ip8tcjb7c218hm8b4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiligarlic.ratatxt",
+            "certificate_hash": "4601b7e4d0f162cf66f73548c2898070a6dfa5f6"
+          }
+        },
+        {
+          "client_id": "1012683785927-p6m7f6bd4jgr2155mfh7uuc0kfrh7eo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZT_bKp_TE1HIi8p-pUBmPAjx_-I9xSfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012683785927-p6m7f6bd4jgr2155mfh7uuc0kfrh7eo5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012683785927-27uhf3pfbcmv6okoiuprftanfmatufi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "chiligarlic.FireLogin"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012683785927:android:cfa238a9677307c7",
+        "android_client_info": {
+          "package_name": "com.chiligarlic.ratatxt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012683785927-fqu06mq2r61qdtfbfff8d0323aq7u0qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiligarlic.ratatxt",
+            "certificate_hash": "adeacc9fe1233ec14c4a58f9e7015247b041e053"
+          }
+        },
+        {
+          "client_id": "1012683785927-ojmdovoj79j1p0mj6t67fgdv5davndnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiligarlic.ratatxt",
+            "certificate_hash": "4601b7e4d0f162cf66f73548c2898070a6dfa5f6"
+          }
+        },
+        {
+          "client_id": "1012683785927-73fugem9ccisirss1ugru9u21k72a5oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiligarlic.ratatxt",
+            "certificate_hash": "ffb9042d2c2d726308df03648d091fbb41e071ba"
+          }
+        },
+        {
+          "client_id": "1012683785927-p6m7f6bd4jgr2155mfh7uuc0kfrh7eo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZT_bKp_TE1HIi8p-pUBmPAjx_-I9xSfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012683785927-p6m7f6bd4jgr2155mfh7uuc0kfrh7eo5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012683785927-27uhf3pfbcmv6okoiuprftanfmatufi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "chiligarlic.FireLogin"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012683785927:android:532f9eae5f38734c",
+        "android_client_info": {
+          "package_name": "com.chiligarlic.test150"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012683785927-767tue4nvo0b3bflilml25u1bur2cqob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chiligarlic.test150",
+            "certificate_hash": "4601b7e4d0f162cf66f73548c2898070a6dfa5f6"
+          }
+        },
+        {
+          "client_id": "1012683785927-p6m7f6bd4jgr2155mfh7uuc0kfrh7eo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZT_bKp_TE1HIi8p-pUBmPAjx_-I9xSfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012683785927-p6m7f6bd4jgr2155mfh7uuc0kfrh7eo5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012683785927-27uhf3pfbcmv6okoiuprftanfmatufi4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "chiligarlic.FireLogin"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
